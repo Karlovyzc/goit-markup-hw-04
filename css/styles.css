@@ -250,19 +250,19 @@ body {
 }
 
 .article-antenna::before {
-  background-image: url(/SVG/antenna.svg);
+  background-image: url(../SVG/antenna.svg);
   background-size: 70px 70px;
 }
 .article-clock::before {
-  background-image: url(/SVG/clock.svg);
+  background-image: url(../SVG/clock.svg);
   background-size: 70px 70px;
 }
 .article-diagram::before {
-  background-image: url(/SVG/diagram.svg);
+  background-image: url(../SVG/diagram.svg);
   background-size: 70px 70px;
 }
 .article-astronaut::before {
-  background-image: url(/SVG/astronaut.svg);
+  background-image: url(../SVG/astronaut.svg);
   background-size: 70px 70px;
 }
 
