@@ -365,9 +365,11 @@ body {
   padding-top: 16px;
 }
 
-.social-line-link:hover {
+.social-line-link:hover,
+.social-line-link:focus {
   background-color: var(--color-text-blue);
 }
+
 .social-line-link:hover .social-icon {
   fill: #ffffff;
 }
