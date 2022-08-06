@@ -501,10 +501,6 @@ body {
   fill: #ffffff;
 }
 
-.social-line-footer {
-  margin-top: 20px;
-}
-
 .social-a-link {
   width: 44px;
   height: 44px;
@@ -520,6 +516,7 @@ body {
 }
 
 .social-line {
+  margin-top: 20px;
 }
 
 .footer-social {
